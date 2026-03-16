@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"> <b>Hi 👋, I'm Prince </b> </h1>  <br><br>I am a Computer Science Engineering student passionate about building practical projects and improving my problem-solving skills.<br><br>- 🎓 B.Tech in **Computer Science & Engineering** (2024-2028).<br>- 💻 Currently learning **Data Structures & Algorithms and Web Development**<br>- 🤖 Exploring **Machine Learning and AI projects**<br>- 📊 Built projects like **Road Accident Prediction** and **Weather Application**<br>- 🌱 Continuously improving my **coding, and development skills**<br>-  💻 Solved **150+ DSA** problems across different plateforms<br>
+<h1 align="center"> <b>Hi 👋, I'm Prince </b> </h1>  <br><br>I am a Computer Science Engineering student passionate about building practical projects and improving my problem-solving skills.<br><br>- 🎓 B.Tech in <b>Computer Science & Engineering</b> (2024-2028).<br>- 💻 Currently learning <b>Data Structures & Algorithms and Web Development</b> <br>- 🤖 <b> Exploring Machine Learning and AI projects </b><br>- 📊 Built projects like <b>Road Accident Prediction</b> and <b>Weather Application </b><br>- 🌱 Continuously improving my <b>coding, and development </b> skills<br>-  💻 Solved <b>150+ DSA** </b> problems across different plateforms<br>
 
 
 ## 🌐 Socials:
